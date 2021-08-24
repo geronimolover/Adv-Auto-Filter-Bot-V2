@@ -68,7 +68,7 @@ OR
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+<i>**[Watch Deploying Tutorial...](https://telegra.ph/file/88167927ab2c2de80b577.jpg)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
